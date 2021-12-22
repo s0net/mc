@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /android/
+Disallow: /windows11/
+Disallow: /ios/
